@@ -29,7 +29,7 @@ Modern users need more than basic alarms. They need customization, smart feature
 ### Methodology
 
 #### User Interviews & Surveys
-- Conducted interviews with 8-12 active alarm users
+- Conducted interviews with 15 active alarm users
 - Analyzed pain points and feature requests
 - Identified use cases beyond simple wake-up alarms
 
