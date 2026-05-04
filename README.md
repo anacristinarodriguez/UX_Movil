@@ -488,16 +488,6 @@ The column displayed the same information as the day view, creating cognitive lo
 
 ---
 
-## 📞 Connect
-
-Have questions about the design process, user testing methodology, or implementation details?
-
-- 🌐 [View Full Portfolio](https://anacristinarodriguez.github.io)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ana-cristina-rodríguez-283262230/)
-- 📧 Contact: anacristinard1@gmail.com
-
----
-
 ## 📄 Documentation
 
 - [Research Findings & Conclusions PDF](./UX-Conclusiones-3.pdf)
@@ -507,6 +497,6 @@ Have questions about the design process, user testing methodology, or implementa
 ---
 
 **Project Status:** ✅ Complete
-**Last Updated:** May 2026
-**Design Duration:** One semester
-**Implementation Duration:** Full academic year
+**Last Updated:** March 2026
+**Duration:** 8 weeks 
+
